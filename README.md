@@ -2,16 +2,16 @@
 
 **Tinder** is a mock Tindr app featuring gestures and custom transitions
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
 The following **required** user stories are complete:
 
-- [ ] User can drag card using a pan gesture (+1pt)
-- [ ] Card rotates as user pans (+1pt)
-- [ ] Card animates when user ends panning gesture (+2pt)
-- [ ] User can view profile - basic modal transition (+1pt)
+- [x] User can drag card using a pan gesture (+1pt)
+- [x] Card rotates as user pans (+1pt)
+- [x] Card animates when user ends panning gesture (+2pt)
+- [x] User can view profile - basic modal transition (+1pt)
 
 The following **stretch** user stories are implemented:
 
@@ -26,7 +26,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![tinder_lab_8](https://user-images.githubusercontent.com/8825679/47671538-bb071a80-db7d-11e8-80e1-3775b14e608b.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
