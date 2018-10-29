@@ -14,6 +14,8 @@
 		9F0509ED21877E3D006DACA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F0509EB21877E3D006DACA3 /* LaunchScreen.storyboard */; };
 		9F0509F821877E3E006DACA3 /* TinderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F0509F721877E3E006DACA3 /* TinderTests.swift */; };
 		9F050A0321877E3E006DACA3 /* TinderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F050A0221877E3E006DACA3 /* TinderUITests.swift */; };
+		9FD4090321877F09006FB880 /* CardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FD4090221877F09006FB880 /* CardViewController.swift */; };
+		9FD40905218785BB006FB880 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FD40904218785BB006FB880 /* ProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		9F0509FE21877E3E006DACA3 /* TinderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TinderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F050A0221877E3E006DACA3 /* TinderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TinderUITests.swift; sourceTree = "<group>"; };
 		9F050A0421877E3E006DACA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9FD4090221877F09006FB880 /* CardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardViewController.swift; sourceTree = "<group>"; };
+		9FD40904218785BB006FB880 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				9F0509E221877E3B006DACA3 /* AppDelegate.swift */,
 				9F0509E421877E3B006DACA3 /* ViewController.swift */,
 				9F0509E621877E3B006DACA3 /* Main.storyboard */,
+				9FD40904218785BB006FB880 /* ProfileViewController.swift */,
+				9FD4090221877F09006FB880 /* CardViewController.swift */,
 				9F0509E921877E3D006DACA3 /* Assets.xcassets */,
 				9F0509EB21877E3D006DACA3 /* LaunchScreen.storyboard */,
 				9F0509EE21877E3D006DACA3 /* Info.plist */,
@@ -258,6 +264,8 @@
 			files = (
 				9F0509E521877E3B006DACA3 /* ViewController.swift in Sources */,
 				9F0509E321877E3B006DACA3 /* AppDelegate.swift in Sources */,
+				9FD40905218785BB006FB880 /* ProfileViewController.swift in Sources */,
+				9FD4090321877F09006FB880 /* CardViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
